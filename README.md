@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions in Python: the RecursionError. The `factorial` function, when called with a negative input, will recursively call itself infinitely, leading to a stack overflow. The solution file provides a corrected version of the function that handles negative inputs gracefully.
